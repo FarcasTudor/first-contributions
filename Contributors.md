@@ -533,6 +533,7 @@ Avinash Jha
 - [Nehorai Tubul](https://github.com/nehoraitubul)
 - [Digpal Parmar](https://github.com/nivaran)
 - [Jansen Samosa](https://github.com/JansenSamosa)
+- [Flaviu Florea](https://github.com/CloudOnSun)
 - [Nico Calderon](https://github.com/ncalderon16)
 - [Alkaison](https://github.com/alkaison)
 - [Bartłomiej Góra] (https://github.com/bartgora)
